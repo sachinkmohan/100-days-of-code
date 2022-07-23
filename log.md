@@ -44,4 +44,10 @@
 **Link(s) to work**
 1. [Useful Video 1](https://www.youtube.com/watch?v=m55PTVUrlnA&t=397s)
 2. [Useful Video 2](https://www.youtube.com/watch?v=Gwup7MV_fXs)
-3. [Useful Video 3]([url](https://www.youtube.com/watch?v=w8NCk4qMAAs))
+3. [Useful Video 3](https://www.youtube.com/watch?v=w8NCk4qMAAs)
+
+### Day 4: July 23, Saturday
+
+**Today's Progress**:  Refreshed JS basics - part 1 - Course - Modern Javascript by Traversy Media on Udemy. 
+**Thoughts:**  : Was a lot of fun!
+

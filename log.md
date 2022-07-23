@@ -49,5 +49,6 @@
 ### Day 4: July 23, Saturday
 
 **Today's Progress**:  Refreshed JS basics - part 1 - Course - Modern Javascript by Traversy Media on Udemy. 
-**Thoughts:**  : Was a lot of fun!
+
+**Thoughts:**  : Was a lot of fun! Covering this to make the ReactJS base stronger.
 

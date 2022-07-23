@@ -28,3 +28,20 @@
 **Link(s) to work**
 1. [Quiz app using React](https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react/)
 2. [Updated to this repo](https://github.com/sachinkmohan/quiz-app-react2)
+
+### Day 2: July 21, Thursday
+
+**Today's Progress**:  
+
+**Thoughts:**  Made a little progress on the quiz. 
+
+### Day 3: July 22, Friday
+
+**Today's Progress**:  Tried to understand major differences between Javascript and React
+
+**Thoughts:**  Was really helpful. Wanna cover the missed JS part.
+
+**Link(s) to work**
+1. [Useful Video 1](https://www.youtube.com/watch?v=m55PTVUrlnA&t=397s)
+2. [Useful Video 2](https://www.youtube.com/watch?v=Gwup7MV_fXs)
+3. [Useful Video 3]([url](https://www.youtube.com/watch?v=w8NCk4qMAAs))

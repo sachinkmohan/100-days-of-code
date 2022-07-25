@@ -52,3 +52,13 @@
 
 **Thoughts:**  : Was a lot of fun! Covering this to make the ReactJS base stronger.
 
+### Day 5: July 24, Sunday
+
+**Today's Progress**:  Brushing up HTML, CSS on freecodecamp
+**Thoughts:**  Using 100days to brush up skills, not what this is actually intended according to rules. But I love it. Changing rules a bit.
+
+### Day 6: July 25, Monday
+
+**Today's Progress**:  Brushed up CSS, JS on freecodecamp
+**Thoughts:**  My freecodecamp ID - https://www.freecodecamp.org/sachinkm308
+

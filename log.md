@@ -62,3 +62,7 @@
 **Today's Progress**:  Brushed up CSS, JS on freecodecamp
 **Thoughts:**  My freecodecamp ID - https://www.freecodecamp.org/sachinkm308
 
+### Day 7: July 28, Thursday
+
+**Today's Progress**:  Brushed up React, CSS
+**Thoughts:**  Enjoying CSS lessons.

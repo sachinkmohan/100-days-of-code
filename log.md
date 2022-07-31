@@ -66,3 +66,9 @@
 
 **Today's Progress**:  Brushed up React, CSS
 **Thoughts:**  Enjoying CSS lessons.
+
+### Day 8: July 31, Sunday
+
+**Today's Progress**:  Making Progress in React Components
+**Thoughts:**  Loved creating working on every piece of the code.
+

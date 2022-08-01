@@ -72,3 +72,7 @@
 **Today's Progress**:  Making Progress in React Components
 **Thoughts:**  Loved creating working on every piece of the code.
 
+### Day 9: Aug 1, Monday
+
+**Today's Progress**:  Rendered multiple items inside components in React
+**Thoughts:**  New learnings

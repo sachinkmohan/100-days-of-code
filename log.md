@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: Aug 2, Tuesday
+
+**Today's Progress**:  Javascript Objects, CSS and REACTJS lessons.
+**Thoughts:**  ReactJS is interesting day by day.
+
+### Day 9: Aug 1, Monday
+
+**Today's Progress**:  Rendered multiple items inside components in React
+**Thoughts:**  New learnings
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -72,7 +82,3 @@
 **Today's Progress**:  Making Progress in React Components
 **Thoughts:**  Loved creating working on every piece of the code.
 
-### Day 9: Aug 1, Monday
-
-**Today's Progress**:  Rendered multiple items inside components in React
-**Thoughts:**  New learnings

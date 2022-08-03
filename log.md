@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 11: Aug 3, Wed
+
+
+**Today's Progress**:  One hour coding on React State
+**Thoughts:**  Completed my first Application using components, props and states.
+
+
 ### Day 10: Aug 2, Tuesday
 
 **Today's Progress**:  Javascript Objects, CSS and REACTJS lessons.

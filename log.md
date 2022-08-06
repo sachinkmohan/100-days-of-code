@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 12: Aug 6, Saturday
+
+**Today's Progress**:  Revised Javascript Objects and While loops
+**Thoughts:**  Important topics
+
 ### Day 11: Aug 3, Wed
 
 

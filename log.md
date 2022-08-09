@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 13: Aug 8, Monday
+
+**Today's Progress**:  More JS learnings and ReactJS. Did one lesson of SASS on @freeCodeCamp
+
 ### Day 12: Aug 6, Saturday
 
 **Today's Progress**:  Revised Javascript Objects and While loops

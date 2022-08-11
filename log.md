@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 14: Aug 11, Thursday
+
+**Today's Progress**:  More JS on freecodecamp
+**Thoughts:**  Loving the challenges.
+
 ### Day 13: Aug 8, Monday
 
 **Today's Progress**:  More JS learnings and ReactJS. Did one lesson of SASS on @freeCodeCamp

@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 15: Aug 12, Friday
+
+**Today's Progress**:  Almost completing JS on freecodecamp
+**Thoughts:**  Excited.
+
 ### Day 14: Aug 11, Thursday
 
 **Today's Progress**:  More JS on freecodecamp

@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 16: Aug 14, Sunday
+
+**Today's Progress**:  Almost completing JS on freecodecamp + Started ES6
+**Thoughts:**  Arrow functions are cool.
+
 ### Day 15: Aug 12, Friday
 
 **Today's Progress**:  Almost completing JS on freecodecamp

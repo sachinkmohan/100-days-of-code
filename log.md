@@ -1,4 +1,10 @@
+
 # 100 Days Of Code - Log
+
+### Day 17: October 13, Thursday
+
+**Today's Progress**:  Implementation of PokerGame in Java
+**Thoughts:**  Loved Test Driven Development. I would love to introduce more Clean Code principles in my code
 
 ### Day 16: Aug 14, Sunday
 

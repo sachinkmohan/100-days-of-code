@@ -1,6 +1,12 @@
 
 # 100 Days Of Code - Log
 
+### Day 18: October 16, Sunday
+
+
+**Today's Progress**:  Javascript implemention of a simple song app
+**Thoughts:**  Vanilla JS progress
+
 ### Day 17: October 13, Thursday
 
 **Today's Progress**:  Implementation of PokerGame in Java

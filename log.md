@@ -1,8 +1,13 @@
 
 # 100 Days Of Code - Log
 
-### Day 18: October 16, Sunday
 
+### Day 19: October 18, Tuesday
+
+**Today's Progress**:  Completed implementation of a JS song app.
+**Thoughts:**  Vanilla JS progress
+
+### Day 18: October 16, Sunday
 
 **Today's Progress**:  Javascript implemention of a simple song app
 **Thoughts:**  Vanilla JS progress

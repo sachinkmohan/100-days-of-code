@@ -1,6 +1,10 @@
 
 # 100 Days Of Code - Log
 
+### Day 20: October 19, Wednesday
+
+**Today's Progress**:  Working on REACT Refresher course.
+**Thoughts:**  It's time to REACT
 
 ### Day 19: October 18, Tuesday
 

@@ -1,5 +1,12 @@
 
+
+
 # 100 Days Of Code - Log
+
+### Day 21: October 20, Thursday
+
+**Today's Progress**:  Hands on - React Complex Component and Portfolio creation
+**Thoughts:**  More fun..
 
 ### Day 20: October 19, Wednesday
 

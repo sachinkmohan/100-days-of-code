@@ -3,6 +3,12 @@
 
 # 100 Days Of Code - Log
 
+
+### Day 22: October 24, Monday
+
+**Today's Progress**:  Hands on - React States and props
+**Thoughts:**  ...
+
 ### Day 21: October 20, Thursday
 
 **Today's Progress**:  Hands on - React Complex Component and Portfolio creation

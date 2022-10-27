@@ -3,6 +3,10 @@
 
 # 100 Days Of Code - Log
 
+### Day 23: October 27, Thursday
+
+**Today's Progress**:  Refreshing Javascript Debugging and CSS lessons on Freecodecamp
+**Thoughts:**  ...
 
 ### Day 22: October 24, Monday
 

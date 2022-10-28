@@ -3,6 +3,11 @@
 
 # 100 Days Of Code - Log
 
+### Day 24: October 28, Friday
+
+**Today's Progress**:  Javascript Recursion
+**Thoughts:**  ...
+
 ### Day 23: October 27, Thursday
 
 **Today's Progress**:  Refreshing Javascript Debugging and CSS lessons on Freecodecamp

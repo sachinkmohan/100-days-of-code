@@ -3,6 +3,11 @@
 
 # 100 Days Of Code - Log
 
+### Day 25: November 1, Tuesday
+
+**Today's Progress**:  Javascript ES6
+**Thoughts:**  ...
+
 ### Day 24: October 28, Friday
 
 **Today's Progress**:  Javascript Recursion
